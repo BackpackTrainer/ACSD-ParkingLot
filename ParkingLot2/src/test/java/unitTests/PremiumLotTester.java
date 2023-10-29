@@ -1,3 +1,5 @@
+package unitTests;
+
 import org.example.PremiumLot;
 import org.example.Ticket;
 import org.example.TicketImpl;
